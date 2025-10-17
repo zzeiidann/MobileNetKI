@@ -6,3 +6,8 @@
 **/.ipynb_checkpoints
 /models/*.safetensors
 /weights/*.safetensors
+/target
+.DS_Store
+**/.ipynb_checkpoints
+/models/*.safetensors
+/weights/*.safetensors
